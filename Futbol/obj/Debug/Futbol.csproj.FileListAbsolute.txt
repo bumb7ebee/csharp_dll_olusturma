@@ -1,0 +1,5 @@
+c:\users\bumblebee\documents\visual studio 2013\Projects\Futbol\bin\Debug\Futbol.dll
+c:\users\bumblebee\documents\visual studio 2013\Projects\Futbol\bin\Debug\Futbol.pdb
+c:\users\bumblebee\documents\visual studio 2013\Projects\Futbol\obj\Debug\Futbol.dll
+c:\users\bumblebee\documents\visual studio 2013\Projects\Futbol\obj\Debug\Futbol.pdb
+C:\Users\BumbLebee\Documents\Visual Studio 2013\Projects\Futbol\obj\Debug\Futbol.csprojResolveAssemblyReference.cache
