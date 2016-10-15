@@ -1,1 +1,1 @@
-Futbol isimli projeyle dll oluşturabilir DLL Örnek isimli projeyle de test edebilirsiniz.
+"Futbol" isimli projeyle ".dll" oluşturabilir, "DLL Örnek" isimli projeyle de test edebilirsiniz.
